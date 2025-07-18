@@ -118,7 +118,6 @@ During the internship, I worked on tasks across 3 levels. Here’s what I tackle
 
 ## 🛠 Tools & Libraries Used
 
-```text
 - Python
 - Pandas
 - NumPy
@@ -126,9 +125,9 @@ During the internship, I worked on tasks across 3 levels. Here’s what I tackle
 - Seaborn
 - Plotly (if used for maps/interactive visuals)
 - Jupyter Notebook
-```
 
 ---
+
 
 ## ✅ Final Thoughts
 
